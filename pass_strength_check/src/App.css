@@ -1,0 +1,27 @@
+.form-container {
+    width: 300px;
+    margin: 80px auto;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 10px;
+}
+
+.strength {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.strength.weak {
+    color: red;
+}
+
+.strength.medium {
+    color: orange;
+}
+
+.strength.strong {
+    color: green;
+}
